@@ -1,4 +1,4 @@
-# Project Plan: The Curated Artbook of Aalilyah Wilson
+# Project Plan: The Curated Artbook 
 
 ### Project Milestones & Schedule
 *   **Milestone 1: Project Scoping & Asset Curation** 

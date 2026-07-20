@@ -1,4 +1,4 @@
-# Project-3-# Creative Visual Design Showcase
+# Project-3-# The Curated Artbook
 
 ## Project Overview
 This website was developed as a final project for CMPA 3301 to demonstrate front-end web development, responsive layout design, custom typography integration, and professional project management principles. 

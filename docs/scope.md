@@ -1,7 +1,7 @@
-# Final Project Scope Statement: The Curated Artbook of Aalilyah Wilson
+# Final Project Scope Statement: The Curated Artbook 
 
 ## Project Overview
-The purpose of this project is to design and develop a multi-page curated showcase website titled "The Curated Artbook of Aalilyah Wilson" that explores the intersection of digital design, fine art, architectural and contemporary fashion editorial layouts.
+The purpose of this project is to design and develop a multi-page curated showcase website titled The Curated Artbook is of myself(Aalilyah Wilson) by exploring the intersection of digital design, fine art, architectural and contemporary fashion editorial layouts.
 
 ## Deliverables
 The project will deliver a structured, public GitHub repository containing a complete project management package and a functional web prototype. Upon completion, the project will include the following deliverables matching this exact repository directory:
