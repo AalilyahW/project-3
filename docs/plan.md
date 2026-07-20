@@ -1,4 +1,4 @@
-# Project Plan: Creative Visual Design Showcase
+# Project Plan: The Curated Artbook of Aalilyah Wilson
 
 ### Project Milestones & Schedule
 *   **Milestone 1: Project Scoping & Asset Curation** 
