@@ -1,0 +1,130 @@
+/* 1. Register Custom Heading Font Asset */
+@font-face {
+    font-family: "Bakso Menu";
+    src: url("Bakso Menu TTF.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 2. Document Layout Shell */
+body {
+    background-color: #f7e8e8;
+    font-family: "Montserrat", "Lato", sans-serif;
+    font-weight: 300;
+    color: #0f0b0b;
+    line-height: 1.8;
+    padding: 40px;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+/* 3. Typography Hierarchies */
+h1, h2, h3 {
+    font-family: "Bakso Menu", serif;
+    font-style: normal;
+    color: #e7384d;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2.8rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 1.3rem;
+    border-bottom: 1px solid #c4adb3;
+    padding-bottom: 8px;
+}
+
+/* 4. Navigation Menu Styles */
+nav {
+    text-align: center;
+    margin: 20px 0 40px 0;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 0.95rem;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-style: normal !important;
+    border-bottom: none !important;
+    font-weight: 600;
+}
+
+/* 5. Highlighted Block Elements */
+p:first-of-type {
+    background-color: #c4adb3;
+    border-left: 4px solid #e7384d;
+    padding: 24px;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    margin-bottom: 30px;
+}
+
+/* 6. Creative Media Gallery Containers (Content Attribution Rule) */
+figure {
+    background-color: #ffffff;
+    border: 1px solid #c4adb3;
+    padding: 20px;
+    margin: 30px 0;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.02);
+}
+
+figure img {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+figcaption {
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    color: #0f0b0b;
+    margin-top: 12px;
+    line-height: 1.5;
+}
+
+figcaption strong {
+    color: #e7384d;
+}
+
+/* 7. Hyperlinks and Interface Interactions */
+a {
+    color: #e7384d;
+    font-weight: 500;
+    font-family: serif;
+    font-style: italic;
+    text-decoration: none;
+    border-bottom: 1px solid #e7384d;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #0f0b0b;
+    border-bottom-color: #0f0b0b;
+}
+
+/* 8. Mobile Responsiveness Breakpoints */
+@media (max-width: 600px) {
+    body {
+        padding: 20px;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+}
