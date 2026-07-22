@@ -8,9 +8,12 @@
     *   *Target Completion:* July 19, 2026
     *   *Status:* Completed. Built the structural markup for a strict two-page setup using index.html and about.html.
 *   **Milestone 3: Asset Styling & Typography Integration**
-    *   *Target Completion:* July 21, 2026
+    *   *Target Completion:* July 20, 2026
     *   *Status:* In Progress. Hooking up the custom "Bakso Menu" heading font and setting up editorial spacing scales inside style.css.
-*   **Milestone 4: Quality Validation & Deployment Handoff**
+    *   **Milestone 4: Recreating a new repository to align with the final assignment flow (separating it from Assignment 2)**
+    *   *Target Completion:* July 20, 2026
+    *   *Status:* Completed. Set up a new VS Code environment and GitHub repository. 
+*   **Milestone 5: Quality Validation & Deployment Handoff**
     *   *Target Completion:* July 23, 2026
     *   *Status:* Upcoming. Verifying all image <figure> alt tags, validating HTML compliance, and running final checks before the absolute submission deadline.
 
